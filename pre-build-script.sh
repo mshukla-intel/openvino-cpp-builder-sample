@@ -2,5 +2,5 @@
 echo "Inside prebuild"
 source /opt/intel/openvino_2021/bin/setupvars.sh
 echo "Initiating untar"
-ls
+ls -la
 tar -xvf omz-2021.4.tar.gz
