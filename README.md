@@ -1,1 +1,1 @@
-# openvino-cpp-builder-sample
+# openvino-cpp-sample
